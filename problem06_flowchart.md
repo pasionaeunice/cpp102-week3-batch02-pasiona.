@@ -1,3 +1,4 @@
+``` mermaid
 flowchart TD
     A([Start]) --> B[/Daily allowance/]
     B --> C[/Number of Days/]
@@ -5,3 +6,4 @@ flowchart TD
     D --> E["sum = Daily allowance + Number of Days + Price3 × Chore bonus"]
     E --> F[/Display sum/]
     F --> G([End])
+```
