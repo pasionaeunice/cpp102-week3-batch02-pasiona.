@@ -1,4 +1,4 @@
-```mermaid
+``` mermaid
 flowchart TD
 A([Start]) --> B[/Input number/]
 B --> C{number >= 0?}
