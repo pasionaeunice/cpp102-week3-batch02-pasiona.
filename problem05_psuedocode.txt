@@ -1,0 +1,8 @@
+START
+INPUT START
+INPUT (Price1 × Quantity1)
+INPUT (Price2 × Quantity2)
+INPUT (Price3 × Quantity3)
+PROCESS sum = (Price1 × Quantity1) + (Price2 × Quantity2) + (Price3 × Quantity3)
+DISPLAY sum
+END

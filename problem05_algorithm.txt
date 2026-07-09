@@ -1,0 +1,8 @@
+Step 1: Start.
+Step 2: Ask the user to input the price and quantity of item 1.
+Step 3: Ask the user to input the price and quantity of item 2.
+Step 4: Ask the user to input the price and quantity of item 3.
+Step 5: Compute the sum.
+Step 6: Display the sum.
+Step 7: End.
+

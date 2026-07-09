@@ -1,0 +1,5 @@
+Step 1: Start.
+Step 2: Ask the user to input a number.
+Step 3: If the number is 0 or greater, display "Positive".
+Otherwise, display "Negative".
+Step 4: End.

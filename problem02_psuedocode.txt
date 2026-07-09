@@ -1,0 +1,7 @@
+START
+INPUT base
+INPUT height
+PROCESS area = base * height
+DISPLAY area
+END
+

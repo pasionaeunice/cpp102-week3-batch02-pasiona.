@@ -1,0 +1,7 @@
+START
+INPUT number
+IF number >= 1000
+DISPLAY "Eligible for Discount"
+ELSE
+DISPLAY "Not Eligible for Discount"
+END

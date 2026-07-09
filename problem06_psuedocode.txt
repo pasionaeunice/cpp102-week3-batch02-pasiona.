@@ -1,0 +1,8 @@
+START
+INPUT (Daily allowance)
+INPUT (Number of Days)
+INPUT (Chore bonus)
+PROCESS sum = Daily allowance + Number of Days + Chore bonus
+DISPLAY sum
+END
+

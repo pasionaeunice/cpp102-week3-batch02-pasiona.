@@ -1,0 +1,11 @@
+Step 1: Start.
+Step 2: Ask the user to input the exam score 1.
+Step 3: Ask the user to input the exam score 2.
+Step 4: Ask the user to input the exam score 3.
+Step 5: Compute the average.
+Step 6: Display the average.
+Step 7: End.
+
+
+
+

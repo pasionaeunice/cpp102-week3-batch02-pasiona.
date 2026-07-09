@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Input a number.
+Step 3: Check if the number is divisible by 2.
+Step 4: If the remainder is 0, display "Even".
+Step 5: Otherwise, display "Odd".
+Step 6: End.

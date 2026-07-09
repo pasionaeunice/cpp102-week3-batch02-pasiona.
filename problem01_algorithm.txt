@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to input the weekly budget. 
+Step 3: Ask the user to input the total expense.
+Step 4: Subtract the two numbers.
+Step 5: Display the difference.
+Step 6: End.
